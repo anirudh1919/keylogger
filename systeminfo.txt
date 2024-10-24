@@ -1,0 +1,35 @@
+Public IP Address: 223.233.78.227Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.1.3
+Public IP Address: 223.233.67.120Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.1.3
+Public IP Address: 110.226.196.89Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.237.102
+Public IP Address: 110.226.196.89Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.237.102
+Public IP Address: 110.226.196.89Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.237.102
+Public IP Address: 110.226.196.89Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.237.102
+Public IP Address: 49.43.161.127Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-GF5PM0M3
+Private IP Address: 192.168.194.1
